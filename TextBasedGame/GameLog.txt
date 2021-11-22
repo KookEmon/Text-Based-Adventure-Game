@@ -1,0 +1,5 @@
+Player's name: Kratos
+Room 1 has been completed by Kratos.
+Room 2 has been completed by Kratos.
+Room 3 has been completed by Kratos.
+THE END.
